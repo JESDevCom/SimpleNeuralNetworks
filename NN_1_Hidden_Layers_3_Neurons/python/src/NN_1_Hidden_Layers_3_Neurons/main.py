@@ -9,7 +9,7 @@ Description:
     Activation Function:
         Sigmoid
     Cost Function:
-        Mean Square Error (MSE)
+        
 """
 import time
 import numpy as np
