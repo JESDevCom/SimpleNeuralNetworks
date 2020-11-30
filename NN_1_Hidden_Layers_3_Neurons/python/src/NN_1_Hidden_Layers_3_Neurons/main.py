@@ -1,6 +1,6 @@
 """
-Author: John Schulz
-Co-Author: Dr. Mohammad Imtiaz, Bradley University, ECE
+Modification Author: John Schulz
+Original-Author: Dr. Mohammad Imtiaz, Bradley University, ECE
 Date Created: 11/19/2020
 
 Description:
